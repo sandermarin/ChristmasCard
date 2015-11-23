@@ -1,0 +1,30 @@
+{
+  "name": "christmascard",
+  "description": "Holiday spirit I suppose.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Christmas",
+    "Cards",
+    "Friends",
+    "Facebook"
+  ],
+  "authors": [
+    "Sander Marin & Kaat Van Eetvelde"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/thirdparty/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.5",
+    "angular-translate-loader-static-files": "~2.8.1"
+  }
+}
